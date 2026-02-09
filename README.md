@@ -21,8 +21,7 @@ Real-time hand gesture controlled 3D interaction system inspired by Iron Man HUD
 4. Unity applies real-time 6DOF control
 5. HUD reacts live to gestures
 
-## Demo
-(Add GIF / video here)
+
 
 ## Future Improvements
 - Multi-hand support
